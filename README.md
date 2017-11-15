@@ -1,2 +1,2 @@
 # Programming-Tasks
-Tasks for Javascript, mySQL, Ruby &amp; Clojure
+Tasks for Java, Javascript, mySQL, Ruby &amp; Clojure
